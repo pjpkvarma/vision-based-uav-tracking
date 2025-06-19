@@ -7,19 +7,19 @@ This repository contains the official implementation of my **Master’s Thesis**
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 We propose a **vision-based reinforcement learning** framework for enabling UAVs to track and pursue dynamic aerial targets. The system integrates:
 
-- 🧩 **YOLOv8** for initial object detection  
-- 🎯 **KCF (Kernelized Correlation Filter)** with APCE validation for efficient tracking  
-- 📦 **AirSim + Gym-compatible environment** for realistic drone simulation  
-- 🤖 **PPO (Proximal Policy Optimization)** algorithm from Stable-Baselines3 for training pursuit behavior  
-- 📊 **WandB integration** for tracking training metrics and model evaluation  
+- **YOLO** for initial object detection  
+- **KCF (Kernelized Correlation Filter)** with APCE validation for efficient tracking  
+- **AirSim + Gym-compatible environment** for realistic drone simulation  
+- **PPO (Proximal Policy Optimization)** algorithm from Stable-Baselines3 for training pursuit behavior  
+- **WandB integration** for tracking training metrics and model evaluation  
 
 ---
 
-## 🛠️ Features
+## Features
 
 - ✅ Dual-drone simulation (Target + Chaser) in AirSim
 - ✅ Hybrid visual tracking: YOLO for detection, KCF for frame-to-frame localization
@@ -30,7 +30,7 @@ We propose a **vision-based reinforcement learning** framework for enabling UAVs
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```bash
 drone-vision-rl/
