@@ -1,4 +1,10 @@
-# 🛰️ Active Aerial Object Tracking and Pursuit using Reinforcement Learning
+# Active Aerial Object Tracking and Pursuit using Reinforcement Learning
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=SRRxmEEpSzQ" target="_blank">
+    <img src="https://img.youtube.com/vi/SRRxmEEpSzQ/hqdefault.jpg" alt="Watch Demo Video" width="640"/>
+  </a>
+</p>
 
 This repository contains the official implementation of my **Master’s Thesis** titled:
 
